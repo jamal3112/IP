@@ -1,0 +1,53 @@
+{
+  "games": [
+    {
+      "id": 0,
+      "img": "",
+      "name": "GTA 5",
+      "cost": "1500",
+      "description": "lorem ipsun",
+      "count": 5,
+      "cat": "ps"
+    },
+    {
+      "id": 1,
+      "img": "",
+      "name": "The Witcher",
+      "cost": "4000",
+      "description": "lorem ipsun",
+      "count": "15",
+      "cat": "xbox"
+    },
+    {
+      "id": 2,
+      "img": "",
+      "name": "God of War",
+      "cost": "3000",
+      "description": "lorem ipsun",
+      "count": "12",
+      "cat": "xbox"
+    },
+    {
+      "id": 3,
+      "img": "",
+      "name": " Call of Duty 4",
+      "cost": "3500",
+      "description": "lorem ipsun",
+      "count": "12",
+      "cat": "ps"
+    }
+  ],
+  "stores": [],
+  "users": [
+    {
+      "id": 0,
+      "login": "admin",
+      "pass": "admin"
+    },
+    {
+      "id": 1,
+      "login": "asdf@mail.ru",
+      "pass": "asdf"
+    }
+  ]
+}

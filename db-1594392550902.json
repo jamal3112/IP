@@ -1,0 +1,35 @@
+{
+  "games": [
+    {
+      "id": 0,
+      "img": "",
+      "name": "GTA 5",
+      "cost": "1500",
+      "description": "lorem ipsun",
+      "count": 5,
+      "cat": "ps"
+    },
+    {
+      "id": 1,
+      "img": "",
+      "name": "The Witcher",
+      "cost": "4000",
+      "description": "lorem ipsun",
+      "count": "15",
+      "cat": "xbox"
+    }
+  ],
+  "stores": [],
+  "users": [
+    {
+      "id": 0,
+      "login": "admin",
+      "pass": "admin"
+    },
+    {
+      "id": 1,
+      "login": "asdf@mail.ru",
+      "pass": "asdf"
+    }
+  ]
+}
